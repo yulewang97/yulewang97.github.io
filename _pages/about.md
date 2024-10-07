@@ -15,7 +15,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am a third-year Ph.D. candidate in the [Machine Learning](https://ml.gatech.edu/) Program and the [CSE Department](https://cse.gatech.edu/) at Georgia Tech (GaTech), advised by Prof. [Anqi Wu](https://sites.google.com/site/anqiwuresearch). My current research interest lies in Probabilistic Machine Learning with its applications in Computational Neuroscience. More specifically, the modeling topics of my research span on: Diffusion (Probabilistic) Models, Variational Autoencoder, Bayesian inference, and Importance Sampling. I received my Master's and B.Eng.'s degree from Shanghai Jiao Tong University majoring in Computer Software Engineering.
