@@ -9,7 +9,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
 <!-- Bibsearch Feature
 
@@ -19,4 +19,4 @@ nav_order: 2
 
 {% bibliography %} -->
 
-</div>
+
