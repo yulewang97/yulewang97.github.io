@@ -14,9 +14,12 @@ profile:
     <p>Atlanta, GA 30308</p>
 
 news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+Ph.D. in [School of CSE, Georgia Institute of Technology](https://www.cse.gatech.edu/)
+
 
 I am a third-year Ph.D. candidate in the [Machine Learning](https://ml.gatech.edu/) Program and the [CSE Department](https://cse.gatech.edu/) at Georgia Tech (GaTech). My advisor is [Prof. Anqi Wu](https://sites.google.com/site/anqiwuresearch). I obtained my Master's and B.Eng.'s degree from Shanghai Jiao Tong University majoring in Computer Software Engineering.
 
