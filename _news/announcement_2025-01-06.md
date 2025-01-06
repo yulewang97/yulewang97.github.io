@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be joining [Meta Reality Labs](https://about.meta.com/realitylabs/) as a Research Scientist Intern in Summer 2025. 
+I will be joining [Meta Reality Labs](https://about.meta.com/realitylabs/) as a Research Scientist Intern in Summer 2025.
