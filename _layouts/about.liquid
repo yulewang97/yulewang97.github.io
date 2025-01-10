@@ -42,13 +42,8 @@ layout: default
 
     {% comment %}
       <!-- News -->
-      {% if page.news %}
-        Here Shall be something
-        <h2>
-          <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
-        </h2>
-        {% include news.liquid limit=true %}
-      {% endif %}
+      {% include news.liquid limit=true %}
+
 
       <!-- Latest posts -->
       {% if site.latest_posts.enabled %}
