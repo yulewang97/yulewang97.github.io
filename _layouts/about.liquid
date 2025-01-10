@@ -40,11 +40,16 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-    {% comment %}
+
       <!-- News -->
-      {% include news.liquid limit=true %}
-
-
+      {% if page.news %}
+        <h2>
+          <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+        </h2>
+        {% include news.liquid limit=true %}
+      {% endif %}
+    
+    {% comment %}
       <!-- Latest posts -->
       {% if site.latest_posts.enabled %}
         <h2>
