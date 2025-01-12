@@ -27,12 +27,12 @@ I am a third-year Ph.D. student in the [Machine Learning](https://ml.gatech.edu/
 <!-- My ML research mainly focuses on the intersection of generative models and sequence modeling. Working with high-dimensional time-series data, I develop ML models to infer semantically or scientifically meaningful latent structures and dynamics through advanced generative modeling approaches (e.g., disentangled variational auto-encoder, video diffusion models).  -->
 
 My *Research Interest* lies in probabilistic machine learning, with its applications in computational neuroscience. 
-Specifically, My ML research focuses on the intersection of (deep) generative models and sequence modeling. Working with multivariate time-series data, I develop ML models to infer semantically or scientifically meaningful latent structures and dynamics through advanced generative modeling approaches (e.g., disentangled variational auto-encoder, video diffusion models).
+More specifically, My ML research focuses on the intersection of (deep) generative models and sequence modeling. Working with multivariate time-series data, I develop ML models to infer semantically or scientifically meaningful latent structures and dynamics through advanced generative modeling approaches (e.g., disentangled variational auto-encoder, video diffusion models).
 <!-- * In neuroscience, my research aim is to discover scientifically meaningful neural latent encodings and dynamics through advanced generative modeling approaches (e.g., disentangled variational auto-encoder, video diffusion models).  -->
 
 
 <!-- My ML research mainly focuses on the intersection of generative models and sequence modeling. Working with high-dimensional time-series data, I develop ML models to infer semantically or scientifically meaningful latent structures and dynamics through advanced generative modeling approaches (e.g., disentangled variational auto-encoder, video diffusion models).  -->
 
- More specifically, the modeling topics of my research span on: Diffusion (Probabilistic) Models, Variational Autoencoder, Bayesian inference, and Importance Sampling.
+ <!-- More specifically, the modeling topics of my research span on: Diffusion (Probabilistic) Models, Variational Autoencoder, Bayesian inference, and Importance Sampling. -->
 
 I am open to collaborate 💡! Feel free to drop me an email if you are interested!
