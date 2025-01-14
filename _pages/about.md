@@ -35,4 +35,4 @@ More specifically, my ML research focuses on the intersection of (deep) generati
 
  <!-- More specifically, the modeling topics of my research span on: Diffusion (Probabilistic) Models, Variational Autoencoder, Bayesian inference, and Importance Sampling. -->
 
-I am open to collaborate 💡! Feel free to drop me an email if you are interested!
+I am open to collaborate💡! Feel free to drop me an email if you are interested!
