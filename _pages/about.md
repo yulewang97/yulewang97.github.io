@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Ph.D. in [School of CSE, Georgia Institute of Technology](https://www.cse.gatech.edu/)
+[School of CSE, Georgia Institute of Technology](https://www.cse.gatech.edu/)
 
 Email: yulewang [at] gatech [dot] edu
 
