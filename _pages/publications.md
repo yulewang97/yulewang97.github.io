@@ -16,3 +16,11 @@ nav_order: 2
 <div class="publications">
 
 {% bibliography %}
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('.publications').forEach((el) => {
+      el.innerHTML = el.innerHTML.replace(/Yule Wang/g, '<strong>Yule Wang</strong>');
+    });
+  });
+</script>
