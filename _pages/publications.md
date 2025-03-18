@@ -15,7 +15,7 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --max_authors 10 %}
 
 <script>
   document.addEventListener('DOMContentLoaded', function () {
