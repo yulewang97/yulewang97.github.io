@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am honored to receive the NeurIPS 2024 Scholar Award. Looking forward to seeing you in Vancouver, Canada!
+I received the NeurIPS 2024 Scholar Award. Looking forward to seeing you in Vancouver, Canada!
