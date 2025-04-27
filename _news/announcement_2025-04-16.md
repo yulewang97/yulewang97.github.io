@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 
-I have been selected as a finalist for the [Neuro Next Graduate Research Award](https://neuro.gatech.edu/funding).
+I have been selected as a finalist for the [Neuro Next Graduate Research Award](https://neuro.gatech.edu/).
 
