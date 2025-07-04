@@ -28,7 +28,7 @@ I am a third-year Ph.D. student in the [Machine Learning Program](https://ml.gat
 
 ##### Research Topics
 
-My Research Interest lies in probabilistic machine learning, with its applications in computational neuroscience.
+My Research Interest is centered on probabilistic machine learning, with its applications in computational neuroscience.
 More specifically, my ML research focuses on the intersection of (deep) generative models and sequence modeling. Working with multivariate time-series data, I develop ML algorithms to infer semantically or scientifically meaningful latent structures and dynamics through advanced generative modeling approaches (e.g., disentangled variational auto-encoder, video diffusion models).
 
 <!-- * In neuroscience, my research aim is to discover scientifically meaningful neural latent encodings and dynamics through advanced generative modeling approaches (e.g., disentangled variational auto-encoder, video diffusion models).  -->
