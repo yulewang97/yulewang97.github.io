@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 Email: yulewang [at] gatech [dot] edu
 
-I am a third-year Ph.D. student in the [Machine Learning Program](https://ml.gatech.edu/) and the [CSE Department](https://cse.gatech.edu/) at Georgia Tech (GaTech). My advisor is [Prof. Anqi Wu](https://sites.google.com/site/anqiwuresearch). I obtained my Master's and B.Eng.'s degree from Shanghai Jiao Tong University majoring in Software Engineering. I also spent time as a research intern at ByteDance and Alibaba.
+I am a fourth-year Ph.D. student in the [Machine Learning Program](https://ml.gatech.edu/) and the [CSE Department](https://cse.gatech.edu/) at Georgia Tech (GaTech). My advisor is [Prof. Anqi Wu](https://sites.google.com/view/brainml/pi). I obtained my Master's and B.Eng.'s degree from Shanghai Jiao Tong University majoring in Software Engineering. I also spent time as a research intern at ByteDance and Alibaba.
 
 <!-- My ML research mainly focuses on the intersection of generative models and sequence modeling. Working with high-dimensional time-series data, I develop ML models to infer semantically or scientifically meaningful latent structures and dynamics through advanced generative modeling approaches (e.g., disentangled variational auto-encoder, video diffusion models).  -->
 
