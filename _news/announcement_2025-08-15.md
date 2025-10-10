@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am fortunate to work as a Research Scientist Intern at Reality Labs, Meta, in New York City during the summer of 2025.
+I am fortunate to work as a Research Scientist Intern at Meta Reality Labs, in New York City during the summer of 2025.
