@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: yule-profile-avatar.png
+  image: yule-profile-avatar.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>CODA 1349R</p>
