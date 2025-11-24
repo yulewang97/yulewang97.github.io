@@ -31,6 +31,4 @@ My ML research focuses on deep generative models and time-series analysis, with 
 
 <!-- My ML research mainly focuses on the intersection of generative models and sequence modeling. Working with high-dimensional time-series data, I develop ML models to infer semantically or scientifically meaningful latent structures and dynamics through advanced generative modeling approaches (e.g., disentangled variational auto-encoder, video diffusion models).  -->
 
- <!-- More specifically, the modeling topics of my research span on: Diffusion (Probabilistic) Models, Variational Autoencoder, Bayesian inference, and Importance Sampling. -->
-
 I am open to collaborate! 💡 Feel free to drop me an email if you are interested!
