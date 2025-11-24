@@ -8,7 +8,7 @@ profile:
   align: right
   image: yule-profile-avatar.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: |
     <p>756 W Peachtree St NW</p>
     <p>Atlanta, GA 30308</p>
 
