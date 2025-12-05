@@ -25,7 +25,7 @@ I am a fourth-year [Machine Learning](https://ml.gatech.edu/) Ph.D. student in t
 
 ##### Research Interests
 
-My ML research focuses on diffusion models and time-series analysis, with their applications in computational neuroscience. I develop ML methods to infer semantically meaningful latent structures and dynamics from multivariate neural time-series data. Previously, during my master’s studies, I also worked on recommender systems research.
+My ML research focuses on diffusion models and time-series analysis, with their applications in computational neuroscience. I develop ML methods to infer semantically meaningful structures and dynamics from multivariate neural time-series data. Previously, during my master’s, I also worked on recommender systems research.
 
 <!-- * In neuroscience, my research aim is to discover scientifically meaningful neural latent encodings and dynamics through advanced generative modeling approaches (e.g., disentangled variational auto-encoder, video diffusion models).  -->
 
