@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 Email: [yulewang@gatech.edu](mailto:yulewang@gatech.edu)
 
-I am a fourth-year [Machine Learning](https://ml.gatech.edu/) Ph.D. student in the [CSE Department](https://cse.gatech.edu/) at Georgia Tech (GaTech). My advisor is [Prof. Anqi Wu](https://sites.google.com/view/brainml/pi). I obtained my Master's and B.Eng.'s degree from Shanghai Jiao Tong University majoring in Software Engineering. I also have worked as a research intern at Meta and Alibaba.
+I am a fourth-year [Machine Learning](https://ml.gatech.edu/) Ph.D. student in the [CSE Department](https://cse.gatech.edu/) at Georgia Tech (GaTech). My advisor is [Prof. Anqi Wu](https://sites.google.com/view/brainml/pi). I obtained my Master's and B.Eng.'s degree from Shanghai Jiao Tong University majoring in Software Engineering. I also have worked as a research scientist intern at Meta and Alibaba.
 
 ##### Research Interests
 
