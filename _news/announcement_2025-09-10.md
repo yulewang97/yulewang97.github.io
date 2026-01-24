@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My research is supported by the [Cloud Hub Microsoft GenAI Award](https://cloudhub.research.gatech.edu/).
+My research funding is supported by the [Cloud Hub Microsoft GenAI Award](https://cloudhub.research.gatech.edu/).
