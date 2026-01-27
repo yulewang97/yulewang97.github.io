@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share that our paper [MIG-Vis](https://arxiv.org/abs/2510.02182) has been accepted at [ICLR 2026](https://iclr.cc/)!
+Excited to share that our work [MIG-Vis](https://arxiv.org/abs/2510.02182) has been accepted at [ICLR 2026](https://iclr.cc/)!
